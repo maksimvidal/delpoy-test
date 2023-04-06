@@ -1,3 +1,4 @@
+version: '3'
 services:
   sensor-data-producer:
       image: msilc/sensor-data-producer:latest
